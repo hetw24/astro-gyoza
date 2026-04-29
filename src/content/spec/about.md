@@ -38,6 +38,7 @@ Gyoza 的核心理念是简洁，快速，可爱。
 
 ---
 
+<div align="left">
 <iframe
   title="User Widget"
   width="288"
