@@ -18,7 +18,7 @@ Gyoza 的核心理念是简洁，快速，可爱。
     <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=700&size=34&duration=3200&pause=900&color=7FB38D&center=true&vCenter=true&width=760&lines=Hi%2C+this+is+He-TW;Stay+hydrated+and+keep+swimming%7E" alt="Typing SVG" />
   </a>
 
-<img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="38%" alt="character art" />
+<img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="49%" alt="character art" />
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -30,11 +30,22 @@ Gyoza 的核心理念是简洁，快速，可爱。
 <h3>About Me</h3>
 
 > 淡看云烟随风去,笑拥晨光自怡然。<br>
-> — <cite>He-TW[^1]</cite>
+> — <cite>He-TW</cite>
 
 ---
 
 ![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
+
+---
+
+<iframe
+  title="User Widget"
+  width="288"
+  height="80"
+  frameborder="0"
+  sandbox="allow-scripts"
+  src="https://widget.ennead.cc/user?id=983116816958255155&theme=dark&avatar=true&banner=false&nameplate=true&nameplate_animated=true&clan=true&decoration=true&global_name=true&size=128&ext=auto"
+></iframe>
 
 <br clear="right" />
 
