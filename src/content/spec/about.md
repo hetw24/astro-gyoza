@@ -15,7 +15,7 @@ Gyoza 的核心理念是简洁，快速，可爱。
 
 ## 关于作者
 <a href="https://github.com/hetw24">
-    <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=700&size=34&duration=3200&pause=900&color=7FB38D&center=true&vCenter=true&width=760&lines=Hi%2C+this+is+He-TW;Stay+hydrated+and+keep+swimming%7E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=34&duration=3200&pause=900&color=7FB38D&center=true&vCenter=true&width=760&lines=Hi%2C+this+is+He-TW;Stay+hydrated+and+keep+swimming%7E" alt="Typing SVG" />
   </a>
 
 <img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="49%" alt="character art" />
