@@ -38,16 +38,15 @@ Gyoza 的核心理念是简洁，快速，可爱。
 
 ---
 
-<div style="text-align: center;">
-  <iframe
-    title="User Widget"
-    width="288"
-    height="80"
-    frameborder="0"
-    sandbox="allow-scripts"
-    src="https://widget.ennead.cc/user?id=983116816958255155&theme=dark&avatar=true&banner=false&nameplate=true&nameplate_animated=true&clan=true&decoration=true&global_name=true&size=128&ext=auto"
-  ></iframe>
-</div>
+<iframe
+  style="display: block; margin: 0 auto;"
+  title="User Widget"
+  width="288"
+  height="80"
+  frameborder="0"
+  sandbox="allow-scripts"
+  src="https://widget.ennead.cc/user?id=983116816958255155&theme=dark&avatar=true&banner=false&nameplate=true&nameplate_animated=true&clan=true&decoration=true&global_name=true&size=128&ext=auto"
+></iframe>
  
 <br clear="right" />
 
