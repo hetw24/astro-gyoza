@@ -20,12 +20,6 @@ Gyoza 的核心理念是简洁，快速，可爱。
 
 <img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="49%" alt="character art" />
 
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwi7f4iv2ef2dd5lkavn2rgp6q&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=light" width="48%">
-  </a>
-</p>
-
 ---
 <h3>About Me</h3>
 
@@ -34,19 +28,11 @@ Gyoza 的核心理念是简洁，快速，可爱。
 
 ---
 
-![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
+<a href="https://discord.com/users/983116816958255155"><img src="https://lanyard.cnrad.dev/api/983116816958255155?theme=dark&idleMessage=%E6%B7%A1%E7%9C%8B%E4%BA%91%E7%83%9F%E9%9A%8F%E9%A3%8E%E5%8E%BB%2C%E7%AC%91%E6%8B%A5%E6%99%A8%E5%85%89%E8%87%AA%E6%80%A1%E7%84%B6%E3%80%82" /></a>
 
 ---
 
-<iframe
-  style="display: block; margin: 0 auto;"
-  title="User Widget"
-  width="288"
-  height="80"
-  frameborder="0"
-  sandbox="allow-scripts"
-  src="https://widget.ennead.cc/user?id=983116816958255155&theme=dark&avatar=true&banner=false&nameplate=true&nameplate_animated=true&clan=true&decoration=true&global_name=true&size=128&ext=auto"
-></iframe>
+![崩坏：星穹铁道](https://hoyocard.qhy04.com/sr/detail/2-2/389976484.png)
  
 <br clear="right" />
 
