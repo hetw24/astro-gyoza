@@ -4,7 +4,6 @@ description: 这是一份站长的自述报告，请查收。
 comments: false
 ---
 
-## 关于作者
 <a href="https://github.com/hetw24">
     <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=34&duration=3200&pause=900&color=7FB38D&center=true&vCenter=true&width=760&lines=Hi%2C+this+is+He-TW;Stay+hydrated+and+keep+swimming%7E" alt="Typing SVG" />
   </a>
@@ -13,15 +12,10 @@ comments: false
 
 <img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="49%" alt="character art" />
 
-
-<h3>About Me</h3>
-
-> 淡看云烟随风去,笑拥晨光自怡然。<br>
-> — <cite>He-TW</cite>
-
----
-
 ## 关于 Gyoza
+
+<div align="left">
+    <img src=https://dn720707.ca.archive.org/0/items/github.com-MatsuriDayo-nekoray_-_2024-12-12_08-25-39/cover.jpg width=200/>
 
 Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
 
@@ -29,6 +23,13 @@ Gyoza 的核心理念是简洁，快速，可爱。
 
 - 在 [Markdown 示例](/posts/markdown) 中展示了 Markdown 的渲染样式
 - 可以前往 [Gyoza 使用指南](/posts/guide) 了解 Gyoza 的使用方法
+
+---
+
+## About Me
+
+> 淡看云烟随风去,笑拥晨光自怡然。<br>
+> — <cite>He-TW</cite>
 
 ---
 
