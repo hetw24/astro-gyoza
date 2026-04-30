@@ -15,7 +15,7 @@ comments: false
 ## 关于 Gyoza
 
 <div align="left">
-    <img src=https://dn720707.ca.archive.org/0/items/github.com-MatsuriDayo-nekoray_-_2024-12-12_08-25-39/cover.jpg width=200/>
+    <img src=https://c-ssl.dtstatic.com/uploads/blog/202103/25/20210325195836_b8b05.thumb.700_0.jpeg width=200/>
 
 Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
 
