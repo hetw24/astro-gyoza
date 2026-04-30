@@ -10,7 +10,7 @@ comments: false
 
 ---
 
-<img src="ˋ" align="right" width="49%" alt="character art" />
+<img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="49%" alt="character art" />
 
 ## 关于 Gyoza
 
