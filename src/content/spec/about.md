@@ -10,12 +10,12 @@ comments: false
 
 ---
 
-<img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="49%" alt="character art" />
+<img src="ˋ" align="right" width="49%" alt="character art" />
 
 ## 关于 Gyoza
 
 <div align="left">
-    <img src=https://c-ssl.dtstatic.com/uploads/blog/202103/25/20210325195836_b8b05.thumb.700_0.jpeg width=200/>
+    <img src=https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/cover.jpeg width=200/>
 
 Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
 
